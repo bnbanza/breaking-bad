@@ -4,7 +4,7 @@
 
 Con esta aplicacion se obtienen frases de la serie Breaking Bad obtenida desde una API
 
-Publicación de la aplicación [Breaking Bad Quotes](https://modest-feynman-f72d10.netlify.app/)
+Publicación de la aplicación [Breaking Bad Quotes](https://modest-feynman-f72d10.netlify.app)
 <br/>
 <br/>
 <br/>
